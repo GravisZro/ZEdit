@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>other/transparent.png</file>
+        <file>other/micro_transparent.png</file>
+        <file>00000.zel</file>
+    </qresource>
+</RCC>
